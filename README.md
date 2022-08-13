@@ -1,2 +1,2 @@
 # Jala-Academy-Assignments
-Pythoncodes
+Python codes
